@@ -1,4 +1,6 @@
 # In my own words
+You can click [here](https://jorgeed13.github.io/fokus-local-storage-main/) to test this application.
+
 This is a project mainly focussed on taking an already build one and adding new functionalities to it, as in almost any real life day-to-day project.
 
 Primiraly creating and integrating a completely new file (script-crud.js), the only alteration made to the original project was the creation of a new custom event on the file script.js, specifically to integrate the function of "completing a task", from the new functionalities, with the already existing "end timing" on focus mode.
