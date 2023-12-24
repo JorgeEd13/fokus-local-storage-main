@@ -1,3 +1,15 @@
+# In my own words
+This is a project mainly focussed on taking an already build one and adding new functionalities to it, as in almost any real life day-to-day project.
+
+Primiraly creating and integrating a completely new file (script-crud.js), the only alteration made to the original project was the creation of a new custom event on the file script.js, specifically to integrate the function of "completing a task", from the new functionalities, with the already existing "end timing" on focus mode.
+
+Other than that, this project was a starting point to learn about and make use of the "localStorage" in any future project, to keep certain information even when the user reloads the page.
+The mainly functions make use of the localStorage for the user to add, edit, mark as completed and remove tasks at will.
+
+As always, thank you [Alura](https://www.alura.com.br) for the opportunity to learn all of this.
+
+And below is the original README.md with the informations and specifics of this project from its creators.
+
 ![](thumbnail.png)
 
 # Fokus
